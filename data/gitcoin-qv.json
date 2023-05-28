@@ -1,0 +1,734 @@
+{
+  "data": {
+    "votes": [
+      {
+        "id": "0x85cb6291cd2bdc32db3cf5ae8f96e7fe76ca736d29a87410e59888e7d0e3a97b",
+        "voter": "0x54BeCc7560a7Be76d72ED76a1f5fee6C5a2A7Ab6",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670241218,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "3": 11,
+          "5": 25,
+          "6": 15,
+          "8": 15,
+          "11": 15,
+          "12": 10
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x2f1ce01b3b0f89c85a8c00605443b20ce6a5c659282f562d3cdfc5686083e054",
+        "voter": "0xb62E762Af637b49Eb4870BCe8fE21bffF189e495",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670241185,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 30,
+          "4": 3,
+          "7": 10,
+          "10": 40,
+          "11": 40,
+          "12": 10
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x53083e4a6e915ef9fd4566597d100f20da05960aa0ec44b41a42f62d1426c298",
+        "voter": "0x521aacB43d89E1b8FFD64d9eF76B0a1074dEdaF8",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670232553,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 20,
+          "5": 10,
+          "7": 20,
+          "8": 10,
+          "10": 20,
+          "12": 20
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x44e1f6e2011d0104c77080fbbe3c5e20d40306b142620962bc4f5c69d4c97f11",
+        "voter": "0xAE6Ef687e55ccd6EC96d2BF6E67FA51819193AFD",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670200865,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x531bcf50ddfd16436b57a0b71c6771bd49aaed6dd6cb5d1e3f5993798f445e69",
+        "voter": "0x57017dC0270bb96125AA4aBf0b6779a3b20be073",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670182683,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 0.25,
+          "2": 0.15,
+          "4": 0.35,
+          "9": 0.25
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x6c461ce9120dee5d0b967437e88686b4617f4763114b652670ec249ce70adc6f",
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670001522,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 7,
+          "3": 1,
+          "4": 2,
+          "5": 4,
+          "6": 7,
+          "7": 5,
+          "8": 10,
+          "9": 1,
+          "10": 10,
+          "11": 10,
+          "12": 10,
+          "13": 1,
+          "15": 5
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x56c2d192bdf10bd41e98249fb43dad23d01599aad059b4fe8a120a7e5a0505e5",
+        "voter": "0x48A63097E1Ac123b1f5A8bbfFafA4afa8192FaB0",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1670000078,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "5": 19,
+          "6": 80
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xeb5f74af5b7a23792f8f47c28717f5a0a2344731db66426e010c059302bc917c",
+        "voter": "0xbe368cc284A8303Ae4C76A1870d897cfEE2B0812",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669994883,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 2,
+          "4": 1,
+          "6": 4,
+          "7": 2,
+          "10": 2
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x82fe76645ea582ca3feca20fc78db232d740002524ebd6422262362288bd9791",
+        "voter": "0x01Cf9fD2efa5Fdf178bd635c3E2adF25B2052712",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669982507,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 50,
+          "3": 50
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x33145b66c7591fc6ceda87b42dc52495966d6c9299dc99c9e516d8e4e6a10bc7",
+        "voter": "0xB41077b88Ff9E42355FC2FfeAA1810560aC5f192",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669932492,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 9,
+          "4": 9,
+          "6": 18,
+          "7": 9,
+          "8": 9,
+          "9": 9,
+          "10": 9,
+          "12": 9,
+          "15": 18
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x51172fc7a32d82e65fdda4cd3143e96b81f3ae176f4d4ca0b21d91b862809454",
+        "voter": "0x2B888954421b424C5D3D9Ce9bB67c9bD47537d12",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669921918,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "3": 35,
+          "8": 35,
+          "11": 15,
+          "12": 15
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x5cd42fc9f9c9ffde34874116fbb6c9f5d7584f90bc4ad9e37fcf635e488fa773",
+        "voter": "0x67DBE3fb2B76E564eBdf860b5011a283E9Ae6698",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669867008,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "5": 1,
+          "6": 1,
+          "7": 1,
+          "10": 1,
+          "11": 1,
+          "12": 1,
+          "15": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xa31d90c877ed208e2f9b22e456a9f16bebd573dbb12bcca6793d0c4315c78677",
+        "voter": "0xACB837A57025BB355B8a82826164Fd47C6d0c573",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669832764,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "3": 5,
+          "10": 15,
+          "11": 10
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x86816de3252f11e0c68ad686ff6adcc255784a4e6f29d4d37229a99b876ce60e",
+        "voter": "0xC994F1424EB35E2D194CDd2419498846bABA6931",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669756181,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "9": 1,
+          "11": 1,
+          "12": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x06e861b1ba733bb81b7954e17e2c5b962f17cce6bafc2bd03d6361078c51e589",
+        "voter": "0xb9570e18268375D6D57cda77ed63224f459D6384",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669753797,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 20,
+          "4": 20,
+          "7": 10,
+          "10": 10,
+          "11": 10,
+          "13": 20,
+          "15": 10
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x35dd9bd0fe3d58511b5c3f7aa21f42a9bea911e0d6d4aee695e37dcfe9e52c30",
+        "voter": "0xc2E2B715d9e302947Ec7e312fd2384b5a1296099",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669744479,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 4,
+          "3": 2,
+          "4": 4,
+          "8": 3,
+          "9": 2,
+          "10": 2,
+          "11": 2,
+          "13": 1,
+          "14": 1,
+          "15": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xa3c05edf441d14298752e02807a25115e11f99713bce946871a18b85cba10755",
+        "voter": "0xC9a238405ef9D753D55EC1EB8F7A7b17B8d83E63",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669738033,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 10,
+          "4": 20,
+          "6": 20,
+          "9": 20,
+          "12": 20,
+          "15": 9
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x46a9c8fe9542770bb7ff01925b2aa157815d4085f587c10268f48aef035b7f29",
+        "voter": "0xEeaA36420519d85EfaB3b7120ac5Afa5a5825bFB",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669736209,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "4": 1,
+          "7": 1,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "12": 1,
+          "13": 1,
+          "15": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x03ea73ede2a31357a16b8ef329fce27849f39de549eaf6d3c7b4d66937a94087",
+        "voter": "0x0Ff4bCaF4D736EDB8EBa11dD66A4921e9f8b8B50",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669729456,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 20,
+          "2": 5,
+          "3": 5,
+          "4": 10,
+          "9": 30,
+          "10": 5,
+          "11": 10,
+          "14": 9,
+          "15": 5
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xba251fd6d33f0e19870b9f1aa523d4304c6777db964cce073bd9c26113baf51d",
+        "voter": "0x915d906523E6fC4e928b15313FEcCD78ff432B4D",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669693153,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 2,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x835fc2351e2937a0ca709d94fcd0e31eb17f2a3cb2f27611f2b84f0dbec2853a",
+        "voter": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669691837,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 1,
+          "8": 4,
+          "10": 2,
+          "11": 1,
+          "12": 1
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xf6befd38a3a6427406e2d8420eb25ff18081accafbb274da6d84ebabd020df54",
+        "voter": "0x5e349eca2dc61aBCd9dD99Ce94d04136151a09Ee",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669689947,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 3,
+          "5": 2,
+          "11": 1,
+          "12": 6
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x3f666d1d857eb56e611cd32b4752cbcaa9b2242525af62863bcd7f12e4341efa",
+        "voter": "0x7A45E23cbb7765900f02c54757498beF01C2b18F",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669677941,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 5,
+          "4": 10,
+          "5": 10,
+          "6": 10,
+          "7": 10,
+          "8": 5,
+          "10": 5,
+          "11": 5,
+          "12": 5,
+          "13": 10,
+          "15": 5
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x956572982e7055edb4df0921c28a63fef8df525777e8d604294c2337611bcc8c",
+        "voter": "0xCf7C21DeD40f2Df85A564207A89b3379780d9CE3",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669676334,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 1,
+          "4": 2,
+          "7": 2,
+          "10": 89,
+          "11": 2,
+          "12": 2
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x6265bc669ddd332693e59bbbbaaa7c700bcfbd69b13fe7498c470a3a80f21e22",
+        "voter": "0x43a70AB0D5Beb7C09f974630FBC56E601F28aA32",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669676070,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 1,
+          "4": 1,
+          "7": 2,
+          "9": 2,
+          "10": 2,
+          "12": 1,
+          "13": 1,
+          "15": 2
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x4cedecf49266b780548b76c5cdad1389024646a1596d37c8ab59f8ebd8dc1feb",
+        "voter": "0x809C9f8dd8CA93A41c3adca4972Fa234C28F7714",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669669424,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 3,
+          "3": 3,
+          "4": 3,
+          "5": 3,
+          "6": 3,
+          "7": 3,
+          "8": 40,
+          "9": 3,
+          "10": 3,
+          "11": 20,
+          "12": 5,
+          "13": 3,
+          "14": 3,
+          "15": 3
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x7a3d97544b94b1c852015865bfc438604568cc3fc4b96f83d84c8f2368307bda",
+        "voter": "0xf93F0b770784602fC3079eb1D2fB1Ff488Bb02B0",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669666374,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 10,
+          "7": 10,
+          "10": 2,
+          "11": 2,
+          "12": 2,
+          "13": 10,
+          "14": 10,
+          "15": 39
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0xc90d3ab0a9096bc2f6284ef526cb3819142607aae2be566aff77ade449119b08",
+        "voter": "0x8F48282e50B0210bd7c7DD69C54205E98b9Ef5D9",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669665240,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 20,
+          "5": 1,
+          "6": 1,
+          "7": 20,
+          "8": 1,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "13": 10,
+          "14": 1,
+          "15": 30
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x04579a6b1e7559ff4822e2c62d390b394db90725899039ef862643e92d41fc65",
+        "voter": "0x9600e2eE6377DAdad7299B120026661c336A5e6d",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669663356,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "2": 10,
+          "4": 50,
+          "5": 9,
+          "6": 10,
+          "13": 20
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x2f32f760b5219e3cbe37eec3628c432b01accb6eaaf0621c20cf395dada794b6",
+        "voter": "0x7E052Ef7B4bB7E5A45F331128AFadB1E589deaF1",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669662126,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "1": 2,
+          "2": 4,
+          "3": 2,
+          "4": 5,
+          "5": 1,
+          "6": 1,
+          "7": 2,
+          "8": 2,
+          "9": 1,
+          "10": 4,
+          "11": 5,
+          "12": 3,
+          "13": 1,
+          "14": 1,
+          "15": 2
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x3fb20f8bd52aa320e3fd485fe5c5bc95c97fe17bf7248885f41029a96fc47329",
+        "voter": "0xA2866D610C17E371604fF75e65A3120f493FC9E6",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669661793,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 8,
+          "13": 2
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      },
+      {
+        "id": "0x990fff88321e7a0495c1a35a6f1f13d15de3c9bf95f9dd388bed34123810cf42",
+        "voter": "0xA30Ab83e693Ad49F3F651085DaD11d049c818923",
+        "vp": 99,
+        "vp_by_strategy": [99],
+        "vp_state": "final",
+        "created": 1669661755,
+        "proposal": {
+          "id": "0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75"
+        },
+        "choice": {
+          "4": 99
+        },
+        "space": {
+          "id": "gitcoingov.eth"
+        }
+      }
+    ]
+  }
+}
